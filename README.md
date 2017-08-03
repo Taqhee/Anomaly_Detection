@@ -11,7 +11,7 @@ Check Project Summary for Analysis Results.
 
 Check Jupyter Notebook for Analysis Steps.  
 
-Skillset Used -  Pandas, Matplotlib, Exploratory Data Analysis, Clustering, DBSCAN, oneClassSVM  
+Skillset Used -  Pandas, Matplotlib, Exploratory Data Analysis, Principal Component Analysis, Clustering, DBSCAN, oneClassSVM  
 
 Citation:  
 1. Chandola, Varun, Arindam Banerjee, and Vipin Kumar. "Anomaly detection: A survey." ACM computing surveys (CSUR) 41.3 (2009): 15.
