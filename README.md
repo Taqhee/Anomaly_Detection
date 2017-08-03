@@ -4,7 +4,7 @@ Objective - To detect anomalies using unsupervised and semi-supervised methods
 
 Although supervised techniques can be used to detect anomalies, availability of labeled data for training/validation of models is usually a major issue in practical situations.  
 
-Data can be downloaded from: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data (1-year data)
+Data can be downloaded from: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data (1-year data)  
 The data contains financial rates from 1st year of the forecasting period and corresponding class label that indicates bankruptcy status after 5 years.  
 
 Check Project Summary for Analysis Results.  
